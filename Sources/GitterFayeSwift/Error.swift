@@ -17,7 +17,6 @@ public enum FayeSocketError {
 
 public extension NSError {
     
-    // MARK:
     // MARK: Error
     
     /// Helper to create a error object for faye realted issues
